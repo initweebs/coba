@@ -1,3 +1,4 @@
+"ini revisi"
 import numpy as np
 import math
 # perbedaan antara module math dan numpy adalah modul numpy dapat melakukan operasi dengan bilangan kompleks
